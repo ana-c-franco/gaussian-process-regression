@@ -1,5 +1,5 @@
 # gaussian-process-regression
-This repository contains the code related to a gaussian process regression approach to filling in Line-P data.
+This repository contains the code related to a gaussian process regression approach to interpolate Line-P timeseries data.
 
 # Line P Seasonal Trend Fitting
 
